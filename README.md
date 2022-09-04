@@ -10,7 +10,7 @@
 ### 코딩테스트 준비 스터디
 - 다른 유명한 강의 많으니 그걸로 진행해도 상관 없음
 - C++ 기본 개념 및 문제 풀이: [유튜브 링크](https://youtube.com/playlist?list=PLBdD-Necee4nHCmsBQPMmlQz8IYn489zz)
-- Python 문제 이: [유튜브 링크](https://youtube.com/playlist?list=PLa2CPpx0Q_5u1l1UmEpBvVtOcbzjx7Y12)
+- Python 문제 풀이: [유튜브 링크](https://youtube.com/playlist?list=PLa2CPpx0Q_5u1l1UmEpBvVtOcbzjx7Y12)
 
 
 ### 모의테스트 스터디
