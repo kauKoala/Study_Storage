@@ -20,3 +20,6 @@
   * 내가 풀은 문제중에서 고를 경우: solved_by:$me
   * 티어 제한을 둘 경우: ex) 실버5~골드1 문제만 확인 tier:s5..g1
   * 특정 알고리즘 유형만 확인할 경우: ex) bfs 문제만 고르기: tag:bfs
+
+### 교내 대회 개최
+- 문제 많이 풀어두어야하고, 출제할 간단한 지문과 풀이도 여러가지 생각해두면 매우 좋음 ([참조 링크](https://github.com/kauKoala/Create-Programming-Contest))
