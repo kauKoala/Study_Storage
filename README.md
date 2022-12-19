@@ -21,5 +21,11 @@
   * 티어 제한을 둘 경우: ex) 실버5~골드1 문제만 확인 tier:s5..g1
   * 특정 알고리즘 유형만 확인할 경우: ex) bfs 문제만 고르기: tag:bfs
 
-### 교내 대회 개최
+
+### Git 스터디 - 기초
+- [깃북 링크](https://70825.gitbook.io/git-tutorial/)
+- [실습 리포지토리 링크](https://github.com/koala-eat-eucalyptus/chrome-extensions-samples)
+
+
+### 교내 알고리즘 대회 개최
 - 문제 많이 풀어두어야하고, 출제할 간단한 지문과 풀이도 여러가지 생각해두면 매우 좋음 ([참조 링크](https://github.com/kauKoala/Create-Programming-Contest))
