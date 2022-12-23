@@ -11,6 +11,7 @@
 - 다른 유명한 강의 많으니 그걸로 진행해도 상관 없음
 - C++ 기본 개념 및 문제 풀이: [유튜브 링크](https://youtube.com/playlist?list=PLBdD-Necee4nHCmsBQPMmlQz8IYn489zz)
 - Python 문제 풀이: [유튜브 링크](https://youtube.com/playlist?list=PLa2CPpx0Q_5u1l1UmEpBvVtOcbzjx7Y12)
+- Python 문제 풀이: [깃북 링크](https://koalas-organization.gitbook.io/koala_codingtest_study/)
 
 
 ### 모의테스트 스터디
